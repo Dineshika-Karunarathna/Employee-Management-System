@@ -1,6 +1,6 @@
 # Employee-Management-System
 
-Welcome to my first Spring Boot project repository! This project is my introductory exploration into Spring Boot. Employee Management System consists of CRUD operations of employees. 
+Welcome to my first Spring Boot project repository! This project is my introductory exploration into Spring Boot 3. Employee Management System consists of CRUD operations of employees. 
 
 ## References
 
